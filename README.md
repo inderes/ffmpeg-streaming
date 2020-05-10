@@ -16,3 +16,7 @@ Other env vars you can set:
 
 - `PORT` (defaults to 3000)
 - `DEBUG=ffmpegstreamer:*` (or `DEBUG=ffmpegstreamer:*,ffmpegstreamerstderr:*` to get the ffmpeg's stderr output)
+
+## Docker image
+
+Dockerimage for this is `vsync/ffmpeg-streaming`.
